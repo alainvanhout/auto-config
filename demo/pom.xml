@@ -46,6 +46,11 @@
 			<artifactId>demo-dependency</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>auto-config</groupId>
+			<artifactId>demo-dependency2</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>

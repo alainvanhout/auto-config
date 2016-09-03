@@ -1,4 +1,4 @@
-package demo.auto.config;
+package demo;
 
 import autoconfig.EnableAutoConfig;
 import org.springframework.boot.SpringApplication;
